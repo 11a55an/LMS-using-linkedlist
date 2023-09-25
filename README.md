@@ -30,7 +30,7 @@ The Library Management System (LMS) is a C++ application that manages a library'
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/LMS.git
+    git clone https://github.com/11a55an/LMS-using-linkedlist
     ```
 
 2. Open the project in your preferred C++ development environment.
